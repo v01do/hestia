@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hestia", "hestia\hestia.csproj", "{044153A9-67A1-4622-A2E6-0BBAA1879BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{044153A9-67A1-4622-A2E6-0BBAA1879BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044153A9-67A1-4622-A2E6-0BBAA1879BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044153A9-67A1-4622-A2E6-0BBAA1879BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044153A9-67A1-4622-A2E6-0BBAA1879BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9EA1B09-B572-4A59-B01A-4BD73B6C2604}
+	EndGlobalSection
+EndGlobal
